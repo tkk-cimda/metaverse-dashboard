@@ -202,7 +202,7 @@ export default {
         currentTab: null,
         metaverseServerSettingExpansion: false,
         metaverseServerSetting: null,
-        defaultMetaverseServer: ['https://metaverse.vircadia.com/live']
+        defaultMetaverseServer: ['http://localhost:9400']
     }),
     computed: {
         metaverseServerStore: {
